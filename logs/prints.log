@@ -1,0 +1,120 @@
+13:12:29.703 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:12:30.618 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:12:30.706 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:12:31.153 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:12:31.199 [TestNG-tests-4] DEBUG tests.LoginTest - User logged In
+13:12:34.473 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:12:34.990 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:12:35.060 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:12:35.417 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:12:45.432 [TestNG-tests-4] DEBUG tests.LoginTest - User didn't logged In
+13:14:51.824 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:14:52.469 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:14:52.583 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:14:53.056 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:14:53.104 [TestNG-tests-4] DEBUG tests.LoginTest - User logged In
+13:14:57.087 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:14:57.412 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:14:57.481 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:14:57.739 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:15:07.769 [TestNG-tests-4] DEBUG tests.LoginTest - User didn't logged In
+13:16:26.187 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:16:26.964 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:16:27.075 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:16:27.574 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:16:27.619 [TestNG-tests-4] DEBUG tests.LoginTest - User logged In
+13:16:33.293 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:16:33.710 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:16:33.778 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:16:34.279 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:16:44.339 [TestNG-tests-4] DEBUG tests.LoginTest - User didn't logged In
+13:17:51.143 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:17:51.785 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:17:51.876 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:17:52.353 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:17:52.405 [TestNG-tests-4] DEBUG tests.LoginTest - User logged In
+13:17:54.199 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:17:54.542 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:17:54.619 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:17:54.880 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:18:04.943 [TestNG-tests-4] DEBUG tests.LoginTest - User didn't logged In
+13:20:49.098 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:20:49.659 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:20:49.766 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:20:50.335 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:20:50.433 [TestNG-tests-4] DEBUG tests.LoginTest - User logged In
+13:20:57.023 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:20:57.377 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:20:57.444 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:20:57.708 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:21:07.768 [TestNG-tests-4] DEBUG tests.LoginTest - User didn't logged In
+13:23:24.702 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:23:25.652 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:23:25.828 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:23:26.405 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:23:26.447 [TestNG-tests-4] DEBUG tests.LoginTest - User logged In
+13:23:28.231 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:23:28.711 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:23:28.793 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:23:29.039 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:23:39.065 [TestNG-tests-4] DEBUG tests.LoginTest - User didn't logged In
+13:24:29.358 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:24:29.901 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:24:29.966 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:24:30.537 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:24:30.588 [TestNG-tests-4] DEBUG tests.LoginTest - User logged In
+13:24:32.854 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:24:33.167 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:24:33.231 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:24:33.738 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:24:43.790 [TestNG-tests-4] DEBUG tests.LoginTest - User didn't logged In
+13:26:11.073 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:26:11.657 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:26:11.777 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:26:12.532 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:26:12.620 [TestNG-tests-4] DEBUG tests.LoginTest - User logged In
+13:26:15.667 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:26:16.101 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:26:16.220 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:26:16.521 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:26:26.532 [TestNG-tests-4] DEBUG tests.LoginTest - User didn't logged In
+13:26:53.092 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:26:54.272 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:26:54.456 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:26:55.021 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:26:55.103 [TestNG-tests-4] DEBUG tests.LoginTest - User logged In
+13:26:56.837 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+13:26:57.303 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+13:26:57.386 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+13:26:57.657 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+13:27:07.669 [TestNG-tests-4] DEBUG tests.LoginTest - User didn't logged In
+14:38:47.806 [main] DEBUG tests.LoginTest - Click on My account Dropdown
+14:38:48.148 [main] DEBUG tests.LoginTest - Add email
+14:38:48.207 [main] DEBUG tests.LoginTest - Add password
+14:38:48.813 [main] DEBUG tests.LoginTest - Click on Login button
+14:38:48.850 [main] DEBUG tests.LoginTest - User logged In
+14:38:51.618 [main] DEBUG tests.LoginTest - Click on My account Dropdown
+14:38:51.972 [main] DEBUG tests.LoginTest - Add email
+14:38:52.041 [main] DEBUG tests.LoginTest - Add password
+14:38:52.421 [main] DEBUG tests.LoginTest - Click on Login button
+14:39:07.043 [main] DEBUG tests.LoginTest - User didn't logged In
+14:51:43.734 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+14:51:44.184 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+14:51:44.252 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+14:51:44.893 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+14:51:44.955 [TestNG-tests-4] DEBUG tests.LoginTest - User logged In
+14:51:47.007 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+14:51:47.391 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+14:51:47.486 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+14:51:47.779 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+14:51:57.812 [TestNG-tests-4] DEBUG tests.LoginTest - User didn't logged In
+14:56:06.458 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+14:56:07.122 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+14:56:07.285 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+14:56:07.890 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+14:56:07.985 [TestNG-tests-4] DEBUG tests.LoginTest - User logged In
+14:56:16.236 [TestNG-tests-4] DEBUG tests.LoginTest - Click on My account Dropdown
+14:56:16.568 [TestNG-tests-4] DEBUG tests.LoginTest - Add email
+14:56:16.639 [TestNG-tests-4] DEBUG tests.LoginTest - Add password
+14:56:16.899 [TestNG-tests-4] DEBUG tests.LoginTest - Click on Login button
+14:56:26.925 [TestNG-tests-4] DEBUG tests.LoginTest - User didn't logged In
